@@ -1,0 +1,15 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'YT-Commenter'
+theme = "ananke"
+[Params]
+  description = 'Enable Comments for every Youtube Video'
+  motto = 'Never be silenced again!'
+  about = "Don't let your voice be disabled. YT-Commenter is a chrome extension that gives you back the power to comment to videos on Youtube that have them disabled. Get back the power to comment! Never be silenced again!"
+  requirements = "YT-Commenter requires that you have a Google Account and that you download the YT-Comment Chrome Extention TODO __here__."
+[Menu]
+[[menu.main]]
+  identifier = 'main'
+  name = 'terms of service'
+  title = 'terms of service'
+  url = '/terms/'
