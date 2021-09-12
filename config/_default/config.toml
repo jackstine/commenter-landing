@@ -1,7 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'YT-Commenter'
-theme = "ananke"
 [Params]
   description = 'Enable Comments for every Youtube Video'
   motto = 'Never be silenced again!'
