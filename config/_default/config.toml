@@ -8,7 +8,12 @@ title = 'YT-Commenter'
   requirements = "YT-Commenter requires that you have a Google Account and that you download the YT-Comment Chrome Extention TODO __here__."
 [Menu]
 [[menu.main]]
-  identifier = 'main'
+  identifier = 'terms'
   name = 'terms of service'
   title = 'terms of service'
-  url = '/terms/'
+  url = '/terms'
+[[menu.main]]
+  identifier = 'privacy'
+  name = 'privacy policy'
+  title = 'privacy policy'
+  url = '/privacy'
