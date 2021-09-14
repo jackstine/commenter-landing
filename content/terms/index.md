@@ -19,7 +19,7 @@ Busniesses and organizations may use the product and services as well. If you re
 
 # Privacy Policy
 
-Before you continue using our website we advise you to read our privacy policy https://ytcommenter.byteofcode.io/privacy/ regarding our user data collection. It will help you better understand our practices.
+Before you continue using our service we advise you to read our privacy policy https://ytcommenter.byteofcode.io/privacy/ regarding our user data collection. It will help you better understand our practices.
 <!--- included the website here for privacy --->
 
 # Copyright
@@ -29,11 +29,11 @@ Content published through the chrome extension (texts, images) is the property o
 
 # Communications
 
-The entire communication with us is electronic. Every time you send us an email or visit our website, you are going to be communicating with us. You hereby consent to receive communications from us. We will continue to communicate with you by posting news and notices on our website and by sending you emails. You also agree that all notices, disclosures, agreements and other communications we provide to you electronically meet the legal requirements that such communications be in writing.
+The entire communication with us is electronic. Every time you send us an email, comment, browse youtube, or visit our website, you are going to be communicating with us. You hereby consent to receive communications from us. We will continue to communicate with you by posting news and notices on our website and by sending you emails. You also agree that all notices, disclosures, agreements and other communications we provide to you electronically meet the legal requirements that such communications be in writing.
 
 # Applicable Law
 
-By visiting this website, you agree that the laws of the United States of America, without regard to principles of conflict laws, will govern these terms of service, or any dispute of any sort that might come between YT-Commenter and you, or its business partners and associates.
+By visiting this using our services, you agree that the laws of the United States of America, without regard to principles of conflict laws, will govern these terms of service, or any dispute of any sort that might come between YT-Commenter and you, or its business partners and associates.
 
 # Disputes
 
