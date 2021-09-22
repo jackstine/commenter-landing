@@ -24,6 +24,9 @@
       <!-- TODO getting rid of site-navigation for now -->
       {{ partial "site-navigation.html" . }}
       <div class="tc-l pv3 ph3 ph4-ns">
+        {{ with .Site.Params.site_logo }}
+          <img src="{{ . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+        {{ end}}
         <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
