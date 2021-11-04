@@ -3,10 +3,9 @@ title: "Terms of Service"
 date: 2021-09-11T22:15:46-04:00
 draft: false
 ---
-# Terms of Service
 Dated: September 12, 2021
 
-Please read these terms of service ("terms", "terms of service") carefully before using YT-Commenter (the "service") operated by Options Deep Inc ("us", 'we", "our").
+Please read these terms of service ("terms", "terms of service") carefully before using YouTube-Commenter (the "service") operated by Options Deep Inc ("us", 'we", "our").
 <!--- added the name above, also the company that operates it --->
 
 # Conditions of Use
@@ -24,7 +23,7 @@ Before you continue using our service we advise you to read our privacy policy h
 
 # Copyright
 
-Content published through the chrome extension (texts, images) is the property of YT-Commenter and/or its content creators and protected by international copyright laws. The entire compilation of the content found on this website is the exclusive property of YT-Commenter, with copyright authorship for this compilation by YT-Commenter.
+Content published through the chrome extension (texts, images) is the property of YouTube-Commenter and/or its content creators and protected by international copyright laws. The entire compilation of the content found on this website is the exclusive property of YouTube-Commenter, with copyright authorship for this compilation by YouTube-Commenter.
 <!--- added in the name 3 times --->
 
 # Communications
@@ -33,7 +32,7 @@ The entire communication with us is electronic. Every time you send us an email,
 
 # Applicable Law
 
-By visiting this using our services, you agree that the laws of the United States of America, without regard to principles of conflict laws, will govern these terms of service, or any dispute of any sort that might come between YT-Commenter and you, or its business partners and associates.
+By visiting this using our services, you agree that the laws of the United States of America, without regard to principles of conflict laws, will govern these terms of service, or any dispute of any sort that might come between YouTube-Commenter and you, or its business partners and associates.
 
 # Disputes
 
@@ -41,9 +40,9 @@ Any dispute related in any way to your use of our product or to products you pur
 
 # Comments, Reviews, and Emails
 
-Visitors may post content as long as it is not obscene, illegal, defamatory, threatening, infringing of intellectual property rights, invasive of privacy or injurious in any other way to third parties. Content has to be free of software viruses, political campaign, and commercial solicitation.
+Visitors may post content as long as it is not obscene, illegal, defamatory, threatening, infringing of intellectual property rights, invasive of privacy or injurious in any other way to third parties. Content has to be free of software viruses, political campaigns, and commercial solicitation.
 
-We reserve all rights (but not the obligation) to remove and/or edit such content. When you post your content, you grant YT-Commenter non-exclusive, royalty-free and irrevocable right to use, reproduce, publish, modify such content throughout the world in any media.
+We reserve all rights (but not the obligation) to remove and/or edit such content. When you post your content, you grant YouTube-Commenter non-exclusive, royalty-free and irrevocable right to use, reproduce, publish, modify such content throughout the world in any media.
 
 # License and Site Access
 
@@ -56,4 +55,4 @@ If you are an owner of an account of Google, you are solely responsible for main
 We reserve all rights to terminate accounts, edit or remove content and cancel orders in their sole discretion.
 
 Thank you,
-YT-Commenter
+YouTube-Commenter
